@@ -1,7 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: chartreuse;
 }
 canvas {
   display: block;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+p {
+  padding-left: 25%;
 }
